@@ -1,6 +1,6 @@
-#source("/opt/data-science/projects/databol/random_analysis/src/init_cartola_2017.R")
+#source("/opt/data-science/projects/databol/teste_modelo_cartola/src/init_cartola_2017.R")
 
-setwd("/opt/data-science/projects/databol/random_analysis/")
+setwd("/opt/data-science/projects/databol/teste_modelo_cartola/")
 
 if( !require(ProjectTemplate) ) {
   if( !require(devtools) ) {
@@ -41,4 +41,4 @@ if(config$munging) {
     sapply(., source)
 }
 
-# nohup Rscript /opt/data-science/projects/databol/random_analysis/src/init_cartola_2017.R &
+# nohup Rscript /opt/data-science/projects/databol/teste_modelo_cartola/src/init_cartola_2017.R &
