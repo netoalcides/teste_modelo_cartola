@@ -7,7 +7,7 @@ munging: FALSE
 logging: TRUE
 logging_level: INFO
 load_libraries: TRUE
-libraries: httr, rjson, jsonlite, dplyr, tidyr, magrittr, stringr, lubridate, tibble, ggplot2, ggradar, scales, flexclust, ranger
+libraries: httr, rjson, jsonlite, dplyr, tidyr, magrittr, stringr, lubridate, tibble, ggplot2, scales, flexclust, ranger
 as_factors: TRUE
 data_tables: FALSE
 attach_internal_libraries: FALSE
