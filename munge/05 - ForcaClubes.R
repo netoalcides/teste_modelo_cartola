@@ -1,6 +1,14 @@
-info( logger, "CARTOLA_2017::forca dos clubes" )
+info( logger, "CARTOLA_2017::Adiciona variaveis de cobrancas" )
 
 load( "cache/dados_cartola_2017_por_rodada.RData" )
+
+dados_cartola_2017_por_rodada %<>%
+  left_join(., cobradores_times, by = "atleta_id" ) %>%
+  mutate_at( vars( cobra_falta, cobra_penalti, cobra_escanteio ),
+             funs( ifelse( is.na(.) == TRUE, 0, . ) ) )
+
+
+info( logger, "CARTOLA_2017::forca dos clubes" )
 
 info( logger, "CARTOLA_2017::forca dos clubes - ataque" )
 
