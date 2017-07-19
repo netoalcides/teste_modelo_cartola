@@ -37,6 +37,10 @@ A primeiro problema busca maximizar a pontuação considerando esquema tático c
     \end{aligned}
 \end{equation*}
 
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+
+
+
 ### Otimização sem laterais
 
 \begin{equation*}
