@@ -11,3 +11,5 @@ O cartoleiro precisa tomar decisões de forma a  maximizar a pontuação do jogo
 - Escolher os jogadores que estejam dentro dos limites de cartoletas existentes na carteira.
 
 Estas decisões fornecem um gama de desafios, sendo que as soluções podem ser adaptadas para outras áreas.
+
+Para realizar todas as análises e ver os resultados rodar o *scritpt* **RealizaTodasAnalises.R**.
