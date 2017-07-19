@@ -4,7 +4,7 @@ Nesta pasta *munge* são processadas todas as análises para avaliação das rec
 
 ## Ajusta e salva os dados dos jogadores. (esta etapa é opcional)
 
-Os scripts *01 - TabelasGerais.R*, *02 - CachearDados.R*, *03 - JuntarTabelas.R* e *04 - Ajusta dados.R* buscam os dados ajustam os dados obtidos do Cartola FC e agrupam todos num único dataset "dados_cartola_2017_por_rodada.RData".
+Os scripts *01 - TabelasGerais.R*, *02 - CachearDados.R*, *03 - JuntarTabelas.R* e *04 - Ajusta dados.R* ajustam os dados obtidos do Cartola FC e agrupam todos num único dataset denominado "dados_cartola_2017_por_rodada.RData".
 
 
 ## Análise dos modelos
