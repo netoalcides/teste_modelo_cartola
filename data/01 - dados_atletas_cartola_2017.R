@@ -7,3 +7,5 @@ dados_mercado <- fromJSON(
                      readLines( "https://api.cartolafc.globo.com/atletas/mercado" ), 
                      collapse = "" )
                    )
+
+cobradores_times <- read.csv( "./data/cobradores_times.csv" )
