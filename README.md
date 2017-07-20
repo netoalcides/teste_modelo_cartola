@@ -13,3 +13,5 @@ O cartoleiro precisa tomar decisões de forma a  maximizar a pontuação do jogo
 Estas decisões fornecem um gama de desafios, sendo que as soluções podem ser adaptadas para outras áreas.
 
 Para realizar todas as análises e ver os resultados rodar o *scritpt* **RealizaTodasAnalises.R**.
+
+$A + \mu = 1$
