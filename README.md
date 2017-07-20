@@ -22,4 +22,4 @@ Para realizar todas as análises e ver os resultados rodar o *scritpt* **Realiza
 
 ### Otimização sem laterais
 
-%![equation](http://mathurl.com/yco6b8q8)
+![](http://mathurl.com/ybhw3nkl.png)
