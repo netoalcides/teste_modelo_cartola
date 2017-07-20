@@ -14,4 +14,4 @@ Estas decisões fornecem um gama de desafios, sendo que as soluções podem ser 
 
 Para realizar todas as análises e ver os resultados rodar o *scritpt* **RealizaTodasAnalises.R**.
 
-$A + \mu = 1$
+![equation](http://bit.ly/2vFwIuR)
