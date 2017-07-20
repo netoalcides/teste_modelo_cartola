@@ -17,7 +17,7 @@ Para realizar todas as análises e ver os resultados rodar o *scritpt* **Realiza
 
 ### Otimização com laterais
 
-![equation]()
+![](http://mathurl.com/yco6b8q8.png)
 
 
 ### Otimização sem laterais
